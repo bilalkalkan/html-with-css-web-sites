@@ -1,0 +1,85 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 32px;
+}
+
+.logo {
+  cursor: pointer;
+}
+
+.navigation-list {
+  list-style: none;
+  margin-right: 110px;
+}
+
+.navigation-list li {
+  display: inline-block;
+  padding: 0px 38.5px;
+}
+
+.navigation-list li a {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 20px;
+  transition: 0.5;
+  color: #000000;
+}
+
+.navigation-list li a:hover {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 20px;
+  color: #000000;
+  opacity: 0.5;
+}
+
+.nav i {
+  padding-right: 50px;
+}
+
+.white-button {
+  position: relative;
+  border: 2px solid #954f25;
+  border-radius: 10px;
+  padding: 11px 29px 14px 30px;
+  cursor: pointer;
+  transition: all 0.03s ease 0s;
+}
+
+.button-link {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 20px;
+  color: #954f25;
+}
+
+.nav span {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.nav img {
+  margin-bottom: 3px;
+}
+
+.select select {
+  border-style: none;
+  background-color: #f0f0f0;
+}
+
+.select option {
+  border-style: none;
+}

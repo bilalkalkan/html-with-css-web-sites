@@ -1,0 +1,83 @@
+.prod-section {
+  width: 1320px;
+  height: 707px;
+  left: 0px;
+  top: 1440px;
+}
+
+.prod-section h1 {
+  text-align: center;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 44px;
+  color: #954f25;
+  margin-top: 32px;
+}
+
+.prod-section h2 {
+  text-align: center;
+  font-style: normal;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 61px;
+  margin-top: 4px;
+  color: #000000;
+}
+.rectangle {
+  width: 1320px;
+  height: 337px;
+  margin-top: 362px;
+
+  background: #ffffff;
+}
+
+.product-gist {
+  background: #954f25;
+  border-radius: 15px;
+  position: relative;
+  bottom: 250px;
+  left: 148px;
+  right: 148px;
+  width: 1024px;
+  height: 434px;
+}
+
+.rectangle .product-gist .baslik {
+  text-align: start;
+  padding-top: 72px;
+  margin-left: 63px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 52px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.rectangle .product-gist .parag {
+  text-align: start;
+  margin-left: 63px;
+  margin-top: 33px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 44px;
+  color: #ffffff;
+  opacity: 0.6;
+}
+
+.rectangle .product-gist img {
+  position: relative;
+  left: 735px;
+  bottom: 365px;
+  width: 289px;
+  height: 434px;
+  /* left: 735px;
+  right: 148px;
+  bottom: 370px; */
+}

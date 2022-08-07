@@ -1,0 +1,16 @@
+@import "./_bienestar.css";
+@import "./_top-nav.css";
+@import "./_reboot.css";
+@import "./_mainbody.css";
+@import "./_maskgroup.css";
+@import "./first-section.css";
+@import "./packages.css";
+@import "./features-section.css";
+@import "./prodsection.css";
+@import "./otherphotossection.css";
+@import "./reviewssection.css";
+@import "./reviews.css";
+@import "./lastsecion.css";
+@import "./footer.css";
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Parisienne&display=swap");

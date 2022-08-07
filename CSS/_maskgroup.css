@@ -1,0 +1,13 @@
+.ellipse {
+  width: 490px;
+  height: 490px;
+  margin-left: 0px;
+}
+
+.ellipse img {
+  width: 490px;
+  height: 490px;
+  margin-top: 104px;
+  margin-left: 720px;
+  border-radius: 300%;
+}

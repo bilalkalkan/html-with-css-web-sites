@@ -1,0 +1,48 @@
+.last-section {
+  margin-top: 1375px;
+  width: 1130px;
+  height: 328px;
+  margin-left: 95px;
+}
+
+.last-section img {
+  margin-left: 450px;
+  width: 216px;
+  height: 54px;
+}
+
+.last-section hr {
+  width: 1130px;
+  border: 1px solid #954f25;
+  margin-top: 30px;
+}
+
+.last-section .row {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 140px;
+  padding-right: 140px;
+}
+
+.last-section .row ul li {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.last-section .row ul li a {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 30px;
+
+  color: #000000;
+
+  opacity: 0.5;
+}
+
+.last-section .second-coloumn {
+  padding-bottom: 20px;
+}

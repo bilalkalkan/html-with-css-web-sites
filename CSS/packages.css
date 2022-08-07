@@ -1,0 +1,44 @@
+.packages {
+  background-color: white;
+  position: relative;
+  bottom: 60px;
+  width: 1024px;
+  height: 330px;
+  margin-left: 148px;
+  box-shadow: -3px 6px 15px rgba(0, 0, 0, 0.1), 3px 0px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 1%;
+}
+
+.image-list li {
+  display: inline-block;
+  padding-left: 40px;
+  padding-right: 40px;
+  justify-content: space-between;
+  text-align: center;
+}
+.image-list {
+  margin-left: 50px;
+}
+.image-list h1 {
+  margin-top: 30px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 34px;
+  color: #000000;
+}
+.packages img {
+  width: 200px;
+  height: 200px;
+  margin-top: 34px;
+
+  border-radius: 50%;
+}
+
+.baslik-list li {
+  display: inline-block;
+  padding-left: 80px;
+  padding-right: 80px;
+  justify-content: space-between;
+  text-align: center;
+}

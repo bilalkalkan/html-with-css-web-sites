@@ -1,0 +1,39 @@
+.footer {
+  height: 61px;
+  width: 1320px;
+  left: 0px;
+  margin-top: 56px;
+  border-radius: 0px;
+  background: #ffffff;
+}
+
+.footer .img1 {
+  margin-left: calc(50% - 24px / 2 - 553px);
+  margin-top: 19px;
+}
+
+.footer .img2 {
+  margin-top: 19px;
+  padding-left: 37px;
+}
+
+.footer .img3 {
+  margin-top: 19px;
+  padding-left: 37px;
+}
+
+.footer p {
+  position: absolute;
+  bottom: 0px;
+  height: 30px;
+  padding-top: 10px;
+  margin-left: 326px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 30px;
+  /* identical to box height */
+
+  color: #000000;
+}

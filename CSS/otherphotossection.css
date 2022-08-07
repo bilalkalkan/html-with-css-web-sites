@@ -1,0 +1,66 @@
+.other-photos-section {
+  position: absolute;
+  width: 1229px;
+  height: 504px;
+  margin-top: 230px;
+  margin-left: 45px;
+}
+
+.other-photos {
+  height: 130px;
+  width: 1229px;
+  left: 45px;
+  top: 2264px;
+  border-radius: 0px;
+  margin-left: 5px;
+}
+
+/* .other-photos li {
+  display: inline-block;
+  justify-content: space-between;
+  align-items: center;
+} */
+.other-photos {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 13px;
+}
+
+/* .other-photos li img {
+  padding-left: 33px;
+  padding-right: 33px; 
+  width: 193px;
+  height: 129px;
+} */
+
+#img5 {
+  margin-right: 0px;
+}
+
+.other-photos-section h1 {
+  margin-top: 70px;
+  text-align: center;
+  /* font-family: "Open Sans", sans-serif; */
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 65px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.other-photos-section p {
+  text-align: center;
+  /* font-family: 'Open Sans'; */
+  font-style: normal;
+  font-weight: 400;
+  font-size: 27px;
+  line-height: 37px;
+  text-align: center;
+
+  color: #000000;
+
+  opacity: 0.5;
+}

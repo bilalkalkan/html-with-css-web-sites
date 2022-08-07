@@ -1,0 +1,55 @@
+.main-body {
+  position: absolute;
+  height: 361px;
+  width: 468px;
+  margin-left: 110px;
+  margin-top: 182px;
+}
+
+.main-body h1 {
+  width: 468px;
+  height: 183;
+  position: absolute;
+  font-weight: 700;
+  font-size: 43px;
+  font-style: normal;
+  line-height: 61px;
+  color: rgba(0, 0, 0, 1);
+}
+
+.main-body ul li {
+  margin-left: 20px;
+  list-style-position: inside;
+  list-style: circle;
+  position: relative;
+  top: 200px;
+  left: 0px;
+  bottom: auto;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 20px;
+
+  color: #000000;
+
+  opacity: 0.5;
+}
+
+.second-button {
+  padding: 6px 19px 6px 20px;
+  position: absolute;
+  left: 0px;
+  bottom: 1px;
+  width: 150px;
+  height: 32px;
+  background-color: #954f25;
+  border-radius: 5px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+  color: #ffffff;
+}
